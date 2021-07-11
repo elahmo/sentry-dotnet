@@ -1,7 +1,7 @@
 # Sample integration with Google Cloud Function
 
 Edit the `appsettings.json` file and add your own `DSN`.
-You can get one at [sentry.io](sentry.io).
+You can get one at [sentry.io](http:/www.sentry.io).
 
 Run this sample:
 
